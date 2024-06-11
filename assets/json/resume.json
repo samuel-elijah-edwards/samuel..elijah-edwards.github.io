@@ -1,19 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Fu-Dong Shi",
+    "profession": "Neurologist, M.D., Ph. D.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "nationality": "United States of America",
+    "residence": "Bejing, Tianjin, China; San Diego, California",
+    "email": "fshi@tmu.edu.cn",
+    "web information": "http://bjtjcni.com/research/people/1/",
     "profiles": [
       {
         "network": "Twitter",
@@ -47,24 +40,111 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "The Scripps Research Institute",
+      "location": "La Jolla, California, USA",
+      "area": "Immunology",
+      "studyType": "Post-Doctoral Fellow",
+      "startDate": "1999",
+      "endDate": "2003",
+      "courses": ["Nora Sarvetnick", "Eng M. Tan"]
+    },
+    {
+      "institution": "Karolinska Institute",
+      "location": "Stockholm, Sweden",
+      "area": "Immunopathogenesis and nasal tolerance in myasthenia gravis",
+      "studyType": "Ph. D. Candidate",
+      "startDate": "1995",
+      "endDate": "1999",
+      "courses": ["Hans Link", "Hans-Gustaf Ljunggren"]
+    },
+    {
+      "institution": "Harbin Medical University, The Second Hospital",
+      "location": "Harbin, China",
+      "area": "Department of Internal Medicine and Neurology",
+      "studyType": "Neurology Resident",
+      "startDate": "1989",
+      "endDate": "1995",
+      "courses": ["Wei Zhi Weng", "Peng Zhang"]
+    },
+    {
+      "institution": "Harbin Medical College and Peking Union Hospital",
+      "location": "Bejing and Harbin, China",
+      "area": "Clinical Medicine",
+      "studyType": "M.D.",
+      "startDate": "1984",
+      "endDate": "1989"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Postdoctoral Fellowship Award",
+      "date": "2000",
+      "awarder": "Juvenile Diabetes Foundation International"
+    },
+    {
+      "title": "Development Award",
+      "date": "2004",
+      "awarder": "US Muscular Dystrophy Association"
+    },
+    {
+      "title": "Chang Jiang Scholar Award Program",
+      "date": "2009",
+      "awarder": "Ministry of Education, China"
+    },
+    {
+      "title": "1000 Talent Recruit Program of China",
+      "date": "2011",
+      "awarder": "Chinese Central Government"
+    },
+    {
+      "title": "China Stroke Award for Innovation Research",
+      "date": "2015",
+      "awarder": "China Stroke Association"
+    },
+    {
+      "title": "Tianjin Distinguished Talent Award",
+      "date": "2016",
+      "awarder": "Tianjin University"
+    },
+    {
+      "title": "Outstanding Neurologist of China",
+      "date": "2017",
+      "awarder": "Chinese Neurologist Association"
+    },
+    {
+      "title": "China Stroke Award",
+      "date": "2017",
+      "awarder": "Chinese Stroke Association."
+    },
+    {
+      "title": "Tianjin Municipal Award for Excellence in Science & Technology",
+      "date": "2019",
+      "awarder": "Tianjin University"
+    },
+    {
+      "title": "Beijing Municipal Award for Exceptional Scientific Innovation",
+      "date": "2021",
+      "awarder": "The People's Government of Behing Municipality"
+    },
+    {
+      "title": "Beijing Municipal Award for Excellence in Science & Technology",
+      "date": "2023",
+      "awarder": "The People's Government of Behing Municipality"
+    }
+  ],
+  "test": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ],
   "certificates": [
