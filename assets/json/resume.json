@@ -26,7 +26,7 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
+  "_volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -147,7 +147,7 @@
       ]
     }
   ],
-  "certificates": [
+  "_certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -231,7 +231,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -267,7 +267,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
