@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.A., Ph.D., MAE 
+subtitle: M.A., Ph.D., MAE
 
 profile:
   align: right
@@ -31,5 +31,3 @@ Dr. Shi has authored of 258 articles, along with the acquisition of 28 patents. 
 In his roles as Chief of Chinese Neuroimmunology Association, visiting professor at Charité, and board member of the European Charcot Foundation, Dr. Shi has played a pivotal role in fostering the fusion of the Chinese Neurology community with their European counterparts. These collaborations have not only enriched joint endeavors towards patient care, but have also promoted research and education opportunities for young neuroscientists.
 
 In summary, Fu-Dong Shi is a distinguished neurologist and researcher who has significantly advanced the field of neuroimmunology. Dr. Shi’s experiences reflect a global perspective and a strong commitment to international coloration. His expertise in neuroinflammatory disorders, pioneering research, and extensive network are assess invaluable with the European Committee’s mission of promoting clinical neuroscience and patient care on a global scale.
-
-
